@@ -10,7 +10,6 @@ This repository is dedicated to learning and practicing Pandas through a series 
 
 ## Directory Structure
 ```
-```
 ├── Pandas_Data_Structures/
 │   ├── 1.Create_a_DataFrame_from_List.py
 ├── Data_Inspection/
