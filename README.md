@@ -10,42 +10,28 @@ This repository is dedicated to learning and practicing Pandas through a series 
 
 ## Directory Structure
 ```
+```
 ├── Pandas_Data_Structures/
-│   ├── Create_a_DataFrame_from_List.py
-│   └── solution.md
+│   ├── 1.Create_a_DataFrame_from_List.py
 ├── Data_Inspection/
-│   ├── Get_the_Size_of_a_DataFrame.py
-│   └── solution.md
-│   ├── Display_the_First_Three_Rows.py
-│   └── solution.md
+│   ├── 2.Get_the_Size_of_a_DataFrame.py
+│   ├── 3.Display_the_First_Three_Rows.py
 ├── Data_Selecting/
-│   ├── Select_Data.py
-│   └── solution.md
-│   ├── Create_a_New_Column.py
-│   └── solution.md
+│   ├── 4.Select_Data.py
+│   ├── 5.Create_a_New_Column.py
 ├── Data_Cleaning/
-│   ├── Drop_Duplicate_Rows.py
-│   └── solution.md
-│   ├── Drop_Missing_Data.py
-│   └── solution.md
-│   ├── Modify_Columns.py
-│   └── solution.md
-│   ├── Rename_Columns.py
-│   └── solution.md
-│   ├── Change_Data_Type.py
-│   └── solution.md
-│   ├── Fill_Missing_Data.py
-│   └── solution.md
+│   ├── 6.Drop_Duplicate_Rows.py
+│   ├── 7.Drop_Missing_Data.py
+│   ├── 8.Modify_Columns.py
+│   ├── 9.Rename_Columns.py
+│   ├── 10.Change_Data_Type.py
+│   ├── 11.Fill_Missing_Data.py
 ├── Table_Reshaping/
-│   ├── Reshape_Data_Concatenate.py
-│   └── solution.md
-│   ├── Reshape_Data_Pivot.py
-│   └── solution.md
-│   ├── Reshape_Data_Melt.py
-│   └── solution.md
+│   ├── 12.Reshape_Data_Concatenate.py
+│   ├── 13.Reshape_Data_Pivot.py
+│   ├── 14.Reshape_Data_Melt.py
 ├── Advanced_Techniques/
-│   ├── Method_Chaining.py
-│   └── solution.md
+│   ├── 15Method_Chaining.py
 └── README.md
 ```
 
